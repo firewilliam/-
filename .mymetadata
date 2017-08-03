@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="设计模式"
+  id="myeclipse.1501229584853"
+  context-root="/设计模式-登记式"
+  j2ee-spec="5.0"
+  archive="设计模式.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
